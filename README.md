@@ -1,4 +1,4 @@
-# Responsive Country Gallery
+# Practice 3 Responsive Country Gallery
 
 ## Descripción
 Esta práctica consiste en una galería responsiva de imágenes de diferentes países, utilizando HTML y CSS Grid. La galería se adapta a diferentes tamaños de pantalla mediante media queries.
